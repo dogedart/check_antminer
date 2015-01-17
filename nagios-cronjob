@@ -1,0 +1,4 @@
+#remotely execute script on antminer to generate text data of cgiminer stats & summary
+
+
+*/5 * * * * /home/antminer/pullstats.sh
