@@ -24,9 +24,9 @@ nagios_check_antminer.sh is the command
 
 If you are using OMD, edit the main.mk file and add hostname for antminer this will add define host section automatically. Then add the Command and service defintions.
 
-# ----------------------------------------------------
-# wpg-antminerS5
-# ----------------------------------------------------
+----------------------------------------------------
+Nagios Host Defs
+ ----------------------------------------------------
 
 define host {
   host_name                     wpg-antminerS5
